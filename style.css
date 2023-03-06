@@ -1,8 +1,49 @@
+.D_purp {
+    color: #674A6D
+}
+
+.amethyst {
+    color: #9067C6
+}
+
+.indigo {
+    color: #8D86C9
+}
+
+.gray {
+    color: #CAC4CE
+}
+
+.linen {
+    color: #F7ECE1
+}
+
+.D_purp_back {
+    background-color: #242038
+}
+
+.amethyst_back {
+    background-color: #9067C6
+}
+
+.indigo_back {
+    background-color: #8D86C9
+}
+
+.gray_back {
+    background-color: #CAC4CE
+}
+
+.linen_back {
+    background-color: #F7ECE1
+}
+
 .footer {
     text-align: center;
-    position:fixed;
-    bottom: 0px;
+    position:sticky;
+    top: 0px;
     left:0px;
     width:100%;
+    margin: 0%;
     z-index: 1;
 }
